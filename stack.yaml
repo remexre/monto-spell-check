@@ -1,0 +1,8 @@
+resolver: lts-9.3
+packages:
+- .
+extra-deps:
+- haspell-1.1.0
+- optparse-applicative-0.14.0.0
+flags: {}
+extra-package-dbs: []
